@@ -1,28 +1,14 @@
 # Hi, I'm Barbara
 
 <img src="https://raw.githubusercontent.com/BarbiBorini/BarbiBorini/master/portada.jpg" alt="banner">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+
+JavaScript | React.js | Node.js | CSS | HTML | Redux | SQL | MongoDB
+
+The possibility of creating amazing things by combining the precision of math and logic with art and creativity is what motivates me. 
+That's why I decided to study Architecture five years ago, and why I decided to become a Full Stack Developer today.
+I love to use my creativity and my analytical thinking to find innovative solutions and improve the process in order to archive better results. 
+
+I like integrating my knowledge in diverse areas such as technology, art and graphic design, and coming out with Out of the Box ideas.
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-
-
-### Hi there 👋
-
-<!--
-**BarbiBorini/BarbiBorini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sharing updates on <a href="https://www.linkedin.com/in/barbara-borini/">LinkedIn</a> 💼
